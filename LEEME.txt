@@ -13,10 +13,9 @@ CÓMO VERLO EN TU COMPUTADORA
 4. Para que se vean las fuentes externas, necesitas conexión a internet.
 
 ANTES DE PUBLICAR
-- Reemplaza el correo de ejemplo contacto@hrmx.com por el correo oficial.
-- Añade teléfono, WhatsApp, dirección y redes sociales si corresponde.
-- Confirma que los servicios descritos son realmente ofrecidos por HRMX.
-- Completa los nombres y datos de todas las empresas del grupo.
+- El sitio ya incluye el correo pichel1936@gmail.com y el WhatsApp +52 558-689-0767.
+- Empresas listadas: Farmacia de Fátima, Multiservicios JD, El Indio Agrícola y Restaurante La Buena Comida.
+- Actividad principal presentada: gestión de procesos empresariales y desarrollo de modelos de negocio. Revisa que las descripciones representen correctamente a HRMX y a cada empresa.
 - Si tienes los logotipos oficiales, sustituye los símbolos de ejemplo por esos logotipos.
 
 PUBLICAR GRATIS CON GITHUB PAGES
