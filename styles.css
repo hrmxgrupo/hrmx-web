@@ -8,3 +8,12 @@
 /* Páginas individuales de empresas */
 .company-detail-hero{background:var(--navy);color:#fff;padding:92px 0 78px;position:relative;overflow:hidden}.company-detail-hero .container{position:relative;z-index:1}.company-detail-hero h1{font-family:Manrope,sans-serif;font-size:clamp(38px,6vw,64px);line-height:1.1;font-weight:600;max-width:800px;margin:20px 0}.company-detail-hero h1 span{color:var(--gold-light)}.company-detail-copy{max-width:690px;color:#c7d0dc;line-height:1.9;font-size:15px}.detail-symbol{width:62px;height:62px;display:grid;place-items:center;border:1px solid rgba(226,200,145,.6);color:var(--gold-light);font-size:26px;margin-bottom:25px}.detail-section{padding:72px 0;background:var(--cream)}.detail-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:start}.detail-section h2{font-size:clamp(28px,4vw,40px)}.detail-section p{color:#5e6878;font-size:14px;line-height:1.9}.detail-panel{padding:30px;background:#fff;border:1px solid #e5e8ed}.detail-panel h3{font-family:Manrope,sans-serif;margin:0 0 12px}.detail-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:22px}.detail-back{display:inline-block;margin-top:26px;color:var(--gold-light);font-weight:700;font-size:12px}.detail-back:hover{text-decoration:underline}.detail-section .button-whatsapp{background:var(--navy);border-color:var(--navy);color:#fff}.detail-section .button-whatsapp:hover{background:var(--navy2)}
 @media(max-width:800px){.company-detail-hero{padding:65px 0 58px}.detail-grid{grid-template-columns:1fr;gap:25px}.detail-section{padding:55px 0}}
+
+/* Indicador temporal para los sitios oficiales que se publicarán más adelante */
+.company-coming {
+  cursor: default;
+  opacity: .82;
+}
+.company-coming b {
+  opacity: .7;
+}
