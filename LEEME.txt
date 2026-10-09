@@ -16,7 +16,7 @@ ANTES DE PUBLICAR
 - El sitio ya incluye el correo hrmxjd@gmail.com y el WhatsApp +52 558-689-0767.
 - Empresas listadas: Farmacia de Fátima, Multiservicios JD, El Indio Agrícola y Restaurante La Buena Comida.
 - Actividad principal presentada: gestión de procesos empresariales y desarrollo de modelos de negocio. Revisa que las descripciones representen correctamente a HRMX y a cada empresa.
-- Los cuatro logotipos se encuentran en la carpeta logos/. Sube esa carpeta junto con index.html, styles.css y script.js al repositorio de GitHub.
+- Si tienes los logotipos oficiales, sustituye los símbolos de ejemplo por esos logotipos.
 
 PUBLICAR GRATIS CON GITHUB PAGES
 1. Crea una cuenta en https://github.com/
@@ -29,3 +29,15 @@ PUBLICAR GRATIS CON GITHUB PAGES
    https://TU-USUARIO.github.io/hrmx-web/
 
 La dirección y los nombres de menú de GitHub pueden cambiar ligeramente. El alojamiento de GitHub Pages para un sitio estático puede utilizarse gratis dentro de sus condiciones vigentes. Un dominio personalizado es opcional y normalmente tiene costo.
+
+
+NUEVAS PÁGINAS DE EMPRESAS
+- farmacia-de-fatima.html
+- multiservicios-jd.html
+- el-indio-agricola.html
+- la-buena-comida.html
+
+Las flechas de las cuatro tarjetas enlazan ahora a sus respectivas páginas. Cada página incluye una descripción breve y contacto por correo o WhatsApp de HRMX. Los enlaces externos oficiales de cada negocio no se añadieron porque no se proporcionaron ni se verificaron direcciones oficiales.
+
+IMPORTANTE SOBRE LOS LOGOTIPOS
+Este paquete no contiene los archivos de imagen de los cuatro logotipos. Si el repositorio publicado tiene etiquetas de imagen con rutas rotas, será necesario subir las imágenes reales y ajustar el atributo src en index.html.
