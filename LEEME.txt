@@ -1,0 +1,32 @@
+HRMX — Sitio web inicial
+========================
+
+ARCHIVOS
+- index.html: estructura y textos del sitio.
+- styles.css: colores, diseño adaptable y estilos.
+- script.js: menú móvil y año automático.
+
+CÓMO VERLO EN TU COMPUTADORA
+1. Descomprime hrmx_sitio_web.zip.
+2. Abre la carpeta.
+3. Haz doble clic en index.html. Se abrirá en tu navegador.
+4. Para que se vean las fuentes externas, necesitas conexión a internet.
+
+ANTES DE PUBLICAR
+- Reemplaza el correo de ejemplo contacto@hrmx.com por el correo oficial.
+- Añade teléfono, WhatsApp, dirección y redes sociales si corresponde.
+- Confirma que los servicios descritos son realmente ofrecidos por HRMX.
+- Completa los nombres y datos de todas las empresas del grupo.
+- Si tienes los logotipos oficiales, sustituye los símbolos de ejemplo por esos logotipos.
+
+PUBLICAR GRATIS CON GITHUB PAGES
+1. Crea una cuenta en https://github.com/
+2. Crea un repositorio nuevo, por ejemplo: hrmx-web.
+3. Sube index.html, styles.css y script.js al repositorio.
+4. Abre Settings > Pages.
+5. En Build and deployment, selecciona Deploy from a branch.
+6. Elige la rama main y la carpeta /(root), y guarda.
+7. Espera a que GitHub publique el sitio. La dirección suele tener formato:
+   https://TU-USUARIO.github.io/hrmx-web/
+
+La dirección y los nombres de menú de GitHub pueden cambiar ligeramente. El alojamiento de GitHub Pages para un sitio estático puede utilizarse gratis dentro de sus condiciones vigentes. Un dominio personalizado es opcional y normalmente tiene costo.
