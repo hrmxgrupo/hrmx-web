@@ -1,18 +1,8 @@
-HRMX — Grupo de Inversión y Desarrollo Empresarial
+Logos iniciales de las cuatro empresas de HRMX
 
-Esta versión conserva una sola página matriz para HRMX. Las cuatro empresas aparecen con una descripción breve y un indicador temporal de que su sitio oficial estará disponible próximamente.
+01_farmacia_de_fatima.png — Farmacia de Fátima
+02_multiservicios_jd.png — Multiservicios JD
+03_el_indio_agricola.png — El Indio Agrícola
+04_restaurante_la_buena_comida.png — Restaurante La Buena Comida
 
-Archivos principales:
-- index.html: página principal de HRMX.
-- styles.css: estilos del sitio.
-- script.js: funciones de navegación/interacción.
-
-Cuando cada empresa tenga su propio sitio oficial publicado, edita index.html y cambia el texto “SITIO OFICIAL PRÓXIMAMENTE” por un enlace <a> que apunte a la URL oficial correspondiente.
-
-Contacto HRMX:
-- Correo: hrmxjd@gmail.com
-- WhatsApp: +52 558-689-0767
-
-Nota: las tarjetas usan iconos decorativos, no los logotipos oficiales de las empresas. Si se desean logotipos reales, hay que añadir los archivos de imagen originales y actualizar el HTML.
-
-Para publicar: sube los archivos de esta carpeta a la raíz del repositorio hrmx-web y confirma los cambios.
+Los cuatro archivos son recortes de la lámina aprobada. Para la web se recomienda sustituirlos por versiones vectoriales o PNG transparentes cuando estén disponibles.
